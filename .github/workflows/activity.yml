@@ -1,0 +1,41 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "11 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-english:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update English README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: momexdah
+          TARGET_FILE: README.md
+          MAX_LINES: 5
+          COMMIT_MSG: "chore: update recent GitHub activity"
+
+  update-spanish:
+    needs: update-english
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Spanish README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: momexdah
+          TARGET_FILE: README_ES.md
+          MAX_LINES: 5
+          COMMIT_MSG: "chore: update recent GitHub activity (ES)"

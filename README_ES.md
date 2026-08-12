@@ -9,12 +9,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+scalable+distributed+systems;Designing+microservices+and+cloud-native+platforms;NestJS+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Angular;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Turning+complexity+into+reliable+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Construyendo+sistemas+distribuidos+escalables;Diseñando+microservicios+y+plataformas+cloud-native;NestJS+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Angular;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Convirtiendo+complejidad+en+software+confiable" alt="Typing animation" />
 
 <br/><br/>
 
-[![English](https://img.shields.io/badge/🇺🇸_English-Current-0A66C2?style=for-the-badge)](./README.md)
-[![Español](https://img.shields.io/badge/🇵🇪_Español-Leer-D91023?style=for-the-badge)](./README_ES.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-Read-0A66C2?style=for-the-badge)](./README.md)
+[![Español](https://img.shields.io/badge/🇵🇪_Español-Actual-D91023?style=for-the-badge)](./README_ES.md)
 
 <br/>
 
@@ -30,20 +30,20 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mí
 
-I'm a **Senior Full Stack Developer** focused on **software architecture, distributed systems, cloud-native platforms and high-availability applications**.
+Soy **Senior Full Stack Developer** enfocado en **arquitectura de software, sistemas distribuidos, plataformas cloud-native y aplicaciones de alta disponibilidad**.
 
-I have **5+ years of professional experience** building and modernizing systems across **Fintech, E-commerce and Government** environments, working throughout the complete engineering lifecycle: architecture, backend, frontend, infrastructure, CI/CD, observability and production operations.
+Tengo **más de 5 años de experiencia profesional** construyendo y modernizando sistemas en entornos **Fintech, E-commerce y Gobierno**, trabajando a lo largo de todo el ciclo de ingeniería: arquitectura, backend, frontend, infraestructura, CI/CD, observabilidad y operación en producción.
 
-Today I work on **Pixrace**, an event-photography and e-commerce platform built around **large-scale image processing, asynchronous workloads, cloud storage and facial-recognition workflows**, serving multiple Latin American markets.
+Actualmente trabajo en **Pixrace**, una plataforma de fotografía de eventos y e-commerce construida alrededor de **procesamiento de imágenes a gran escala, cargas asíncronas, almacenamiento cloud y flujos de reconocimiento facial**, desplegada en múltiples mercados de Latinoamérica.
 
 ```ts
 const diomedes = {
   role: "Senior Full Stack Developer",
-  location: "Peru 🇵🇪",
-  experience: "5+ years",
-  deliveredProjects: "40+",
+  location: "Perú 🇵🇪",
+  experience: "5+ años",
+  proyectosEntregados: "40+",
   focus: [
     "Software Architecture",
     "Distributed Systems",
@@ -61,31 +61,31 @@ const diomedes = {
     "Hexagonal Architecture",
     "Event-Driven Architecture",
   ],
-  currentlyBuilding: "Scalable platforms across LATAM",
+  currentlyBuilding: "Plataformas escalables para LATAM",
 };
 ```
 
 ---
 
-## 📌 Impact at a glance
+## 📌 Impacto en números
 
 <div align="center">
 
-| 🚀 5+ years | 🧩 40+ projects | ⚡ 70–80% | 🌎 LATAM |
+| 🚀 5+ años | 🧩 40+ proyectos | ⚡ 70–80% | 🌎 LATAM |
 |:---:|:---:|:---:|:---:|
-| Professional experience | Software projects delivered | Operational workload reduction | Multi-country systems |
+| Experiencia profesional | Proyectos de software entregados | Reducción de carga operativa | Sistemas multi-país |
 
 </div>
 
 ---
 
-## 🧠 Engineering DNA
+## 🧠 ADN de ingeniería
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Software Architecture
+### 🏗️ Arquitectura de Software
 
 - Clean Architecture
 - Domain-Driven Design
@@ -99,7 +99,7 @@ const diomedes = {
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Distributed Systems
+### 🌐 Sistemas Distribuidos
 
 - Event-driven architecture
 - REST / GraphQL / gRPC
@@ -147,7 +147,7 @@ const diomedes = {
 
 ---
 
-## 🛠️ Technology stack
+## 🛠️ Stack tecnológico
 
 ### Backend
 
@@ -191,32 +191,32 @@ const diomedes = {
 
 ---
 
-## 🚀 Selected engineering work
+## 🚀 Ingeniería destacada
 
-### 📸 Pixrace — Event Photography & E-commerce
+### 📸 Pixrace — Fotografía de eventos & E-commerce
 
-High-volume event-photography platform designed for **massive image ingestion, asynchronous processing, cloud object storage, preview/thumbnail generation and facial-recognition workflows**.
+Plataforma de fotografía de eventos de alto volumen diseñada para **ingesta masiva de imágenes, procesamiento asíncrono, almacenamiento cloud, generación de previews/thumbnails y flujos de reconocimiento facial**.
 
-**Architecture highlights**
+**Aspectos destacados de arquitectura**
 
-- Large batches of event images
-- AWS S3 object storage
-- Queue-based processing
-- Dedicated workers
-- Image processing pipelines
-- Kubernetes-ready deployments
-- Health/readiness probes
-- Scalable API services
+- Grandes lotes de imágenes por evento
+- Almacenamiento de objetos en AWS S3
+- Procesamiento basado en colas
+- Workers dedicados
+- Pipelines de procesamiento de imágenes
+- Despliegues preparados para Kubernetes
+- Health checks y readiness probes
+- Servicios API escalables
 
 `NestJS` `AWS S3` `SQS / Queues` `Workers` `Docker` `Kubernetes` `Image Processing`
 
 ---
 
-### 🏦 Fintech & Enterprise Platforms
+### 🏦 Plataformas Fintech & Enterprise
 
-Development and modernization of enterprise systems using **microservices, API gateways, authentication/authorization and distributed service architectures**.
+Desarrollo y modernización de sistemas empresariales utilizando **microservicios, API gateways, autenticación/autorización y arquitecturas de servicios distribuidos**.
 
-**Engineering highlights**
+**Aspectos destacados de ingeniería**
 
 - .NET / NestJS services
 - Identity and RBAC
@@ -231,11 +231,11 @@ Development and modernization of enterprise systems using **microservices, API g
 
 ---
 
-### 🧩 Microfrontend Ecosystems
+### 🧩 Ecosistemas Microfrontend
 
-Frontend architectures composed of independently deployable applications with centralized orchestration.
+Arquitecturas frontend compuestas por aplicaciones desplegables de forma independiente con orquestación centralizada.
 
-**Engineering highlights**
+**Aspectos destacados de ingeniería**
 
 - Single-SPA
 - Module Federation
@@ -248,21 +248,21 @@ Frontend architectures composed of independently deployable applications with ce
 
 ---
 
-### 🏛️ Government & Business Systems
+### 🏛️ Sistemas gubernamentales y de negocio
 
-Enterprise applications focused on **workflow automation, notifications, document processes, access management and operational efficiency**.
+Aplicaciones empresariales enfocadas en **automatización de flujos, notificaciones, procesos documentales, gestión de accesos y eficiencia operativa**.
 
-**Impact**
+**Impacto**
 
-- Reduced manual workloads
-- Automated business processes
-- Improved traceability
-- Structured access control
-- Enterprise integrations
+- Reducción de cargas manuales
+- Automatización de procesos de negocio
+- Mejora de trazabilidad
+- Control de accesos estructurado
+- Integraciones empresariales
 
 ---
 
-## 🗺️ How I think about systems
+## 🗺️ Cómo pienso los sistemas
 
 ```text
                          ┌──────────────────────┐
@@ -291,7 +291,7 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analíticas de GitHub
 
 <div align="center">
 
@@ -307,11 +307,11 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 </div>
 
-> **Note:** Public GitHub statistics do not represent the full scope of my professional work because a significant portion lives in private and corporate repositories.
+> **Nota:** Las estadísticas públicas de GitHub no representan todo mi trabajo profesional porque una parte importante se encuentra en repositorios privados y corporativos.
 
 ---
 
-## 🏆 GitHub achievements
+## 🏆 Logros en GitHub
 
 <div align="center">
 
@@ -321,16 +321,16 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 ---
 
-## ⚡ Recent GitHub activity
+## ⚡ Actividad reciente en GitHub
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-> This section can be updated automatically using GitHub Actions.
+> Esta sección puede actualizarse automáticamente mediante GitHub Actions.
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribuciones
 
 <div align="center">
 
@@ -344,7 +344,7 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 ---
 
-## 📈 Contribution activity
+## 📈 Actividad de contribuciones
 
 <div align="center">
 
@@ -354,26 +354,26 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 ---
 
-## 💡 What I care about
+## 💡 Lo que me importa al construir software
 
-- Designing systems that are **easy to evolve**
-- Keeping architecture aligned with **real business needs**
-- Reducing unnecessary operational work through **automation**
-- Making infrastructure **repeatable and observable**
-- Choosing technologies based on **trade-offs, not trends**
-- Building software that remains maintainable after the first release
+- Diseñar sistemas que sean **fáciles de evolucionar**
+- Mantener la arquitectura alineada con **necesidades reales del negocio**
+- Reducir trabajo operativo innecesario mediante **automatización**
+- Hacer que la infraestructura sea **repetible y observable**
+- Elegir tecnologías por **trade-offs, no por tendencias**
+- Construir software que siga siendo mantenible después del primer release
 
 ---
 
-## 📚 Currently focused on
+## 📚 En qué estoy enfocado actualmente
 
 ```text
-▸ Distributed systems at scale
-▸ Event-driven architectures
-▸ Cloud-native platform design
-▸ High-volume asynchronous workloads
-▸ Kubernetes & production reliability
-▸ Software architecture decisions and trade-offs
+▸ Sistemas distribuidos a escala
+▸ Arquitecturas orientadas a eventos
+▸ Diseño de plataformas cloud-native
+▸ Cargas asíncronas de alto volumen
+▸ Kubernetes y confiabilidad en producción
+▸ Decisiones de arquitectura y trade-offs
 ```
 
 ---
@@ -382,13 +382,13 @@ Enterprise applications focused on **workflow automation, notifications, documen
 
 <div align="center">
 
-### Want the full picture?
+### ¿Quieres ver el perfil completo?
 
-My portfolio includes my professional background, engineering experience, projects, architecture work and certifications.
+Mi portfolio reúne mi trayectoria profesional, experiencia de ingeniería, proyectos, trabajo de arquitectura y certificaciones.
 
 <br/>
 
-[![Explore Portfolio](https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-diomedes--dev.lyracorp.pro-111827?style=for-the-badge)](https://diomedes-dev.lyracorp.pro/)
+[![Explore Portfolio](https://img.shields.io/badge/🚀_EXPLORAR_MI_PORTFOLIO-diomedes--dev.lyracorp.pro-111827?style=for-the-badge)](https://diomedes-dev.lyracorp.pro/)
 
 <br/>
 
@@ -398,20 +398,20 @@ My portfolio includes my professional background, engineering experience, projec
 
 ---
 
-## 🤝 Let's build something challenging
+## 🤝 Construyamos algo desafiante
 
-I'm especially interested in opportunities involving:
+Me interesan especialmente oportunidades relacionadas con:
 
 `Senior Full Stack Engineering` · `Backend Engineering` · `Software Architecture` · `Distributed Systems` · `Cloud Native` · `Platform Engineering`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diomedes-arribasplata-hernandez/)
-[![Portfolio](https://img.shields.io/badge/View_my_work-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diomedes-dev.lyracorp.pro/)
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diomedes-arribasplata-hernandez/)
+[![Portfolio](https://img.shields.io/badge/Ver_mi_trabajo-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diomedes-dev.lyracorp.pro/)
 
 <br/><br/>
 
-### `< Building scalable software, one architecture at a time. />`
+### `< Construyendo software escalable, una arquitectura a la vez. />`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
 
